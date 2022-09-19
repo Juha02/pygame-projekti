@@ -1,0 +1,2 @@
+# pygame-projekti
+Ilotulitus harjoitus
